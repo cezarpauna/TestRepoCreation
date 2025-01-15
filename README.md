@@ -1,14 +1,19 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! ☕
+Welcome to the Local Coffee Shop React App!
 
-We serve the **best coffee** in town, along with a selection of delicious pastries.
+## Features
+- Stylish design with a welcoming message.
+- Displays a menu of delicious coffee and pastry options.
 
-## Our Menu
-- **Espresso**
-- **Latte**
-- **Cappuccino**
-- **Cold Brew**
-- **Pastries**
+## Technologies Used
+- React
+- CSS
 
-Visit us for a cozy and delightful coffee experience!
+## Installation
+1. Clone this repository.
+2. Run `npm install` to install dependencies.
+3. Start the app with `npm start`.
+
+## License
+This project is licensed under the MIT License.
