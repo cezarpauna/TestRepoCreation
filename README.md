@@ -1,6 +1,6 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town. Check out our menu below and come visit us!
+Welcome to our Local Coffee Shop! We serve the best coffee in town. Here’s what you can find on our menu:
 
 ## Menu
 - Espresso
@@ -10,10 +10,11 @@ Welcome to our Local Coffee Shop! We serve the best coffee in town. Check out ou
 - Pastries
 
 ## Getting Started
-To get a local copy up and running follow these simple steps:
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 - Node.js
+- npm (Node package manager)
 
 ### Installation
 1. Clone the repo
@@ -24,10 +25,13 @@ To get a local copy up and running follow these simple steps:
    ```sh
    npm install
    ```
-3. Start the local server
+3. Run the app
    ```sh
    npm start
    ```
 
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License.
