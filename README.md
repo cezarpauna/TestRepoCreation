@@ -1,12 +1,24 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We offer a variety of delicious coffee and pastries to satisfy your cravings.
+Welcome to our Local Coffee Shop! We serve the best coffee in town and a delightful selection of pastries.
 
 ## Our Menu
-- **Espresso**: A rich and bold coffee experience.
-- **Latte**: Smooth espresso with steamed milk.
-- **Cappuccino**: Equal parts espresso, steamed milk, and foam.
-- **Cold Brew**: Refreshing and smooth cold coffee.
-- **Pastries**: A selection of fresh pastries to enjoy with your coffee.
+- Espresso  
+- Latte  
+- Cappuccino  
+- Cold Brew  
+- Pastries  
 
-Visit us for a delightful coffee experience!
+## Technologies Used:
+- React  
+- CSS  
+
+## Get Started
+Clone this repository and run the React app using:
+```bash
+npm install
+npm start
+```
+
+## Acknowledgements
+Thanks for visiting our coffee shop! Enjoy your coffee and have a great day!
