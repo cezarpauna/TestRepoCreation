@@ -1,34 +1,20 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We pride ourselves on serving the best coffee in town, alongside delicious pastries and other treats.
+Welcome to our Local Coffee Shop! We are dedicated to serving you the best coffee in town. Here's a glimpse of what we offer:
 
 ## Our Menu
-- **Espresso**
-- **Latte**
-- **Cappuccino**
-- **Cold Brew**
-- **Pastries**
+- **Espresso**: A classic coffee shot, rich in flavor.
+- **Latte**: Creamy milk combined with espresso for a smooth taste.
+- **Cappuccino**: Equal parts espresso, steamed milk, and foam.
+- **Cold Brew**: Brewed for 12 hours for a refreshing experience.
+- **Pastries**: Freshly baked pastries to accompany your drink.
 
 ## Getting Started
-
-To run this project locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/cezarpauna/TestRepoCreation.git
-   ```
-2. Change directory:
-   ```bash
-   cd TestRepoCreation
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the application:
-   ```bash
-   npm start
-   ```
+To get started with the application, clone the repository and run:
+```bash
+npm install
+npm start
+```
 
 ## Contributing
-
-Feel free to fork the repository and submit pull requests to contribute to our application!
+Feel free to fork the repository and create pull requests! We welcome contributions and feedback.
