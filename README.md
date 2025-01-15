@@ -1,14 +1,14 @@
-# Local Coffee Shop
+# Local Coffee Shop App
 
-Welcome to our Local Coffee Shop! ☕
-
-## Description
-This is a simple React application for a local coffee shop. We aim to provide the best coffee experience in town.
+Welcome to the Local Coffee Shop App!
 
 ## Features
-- Stylish and simple UI
-- Menu showcasing different coffee and pastry options
-- Built with React
+- Showcases the best coffee and pastries available.
+- User-friendly interface.
+
+## Technologies Used
+- React
+- CSS for styling
 
 ## Getting Started
 1. Clone the repository:
@@ -19,23 +19,14 @@ This is a simple React application for a local coffee shop. We aim to provide th
    ```bash
    cd TestRepoCreation
    ```
-3. Install dependencies:
+3. Install the dependencies:
    ```bash
    npm install
    ```
-4. Start the application:
+4. Start the app:
    ```bash
    npm start
    ```
 
-## Our Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
-
-Enjoy your coffee!  
-
-### Author
-Cezar Pauna
+## License
+This project is open source and available under the MIT License.
