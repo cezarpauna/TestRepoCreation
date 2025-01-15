@@ -2,15 +2,20 @@
 
 Welcome to our Local Coffee Shop!
 
-This is a simple React application that showcases our coffee shop menu.
+## About Us
+We serve the best coffee in town, made from the finest beans. Join us for a cup of coffee and delicious pastries.
 
-## Features
-- Stylish UI
-- Responsive design
-- List of available drinks and pastries
+## Menu
+- **Espresso**: A strong and bold coffee.
+- **Latte**: Smooth and creamy with a touch of milk.
+- **Cappuccino**: Equal parts espresso, steamed milk, and foam.
+- **Cold Brew**: Smooth and refreshing iced coffee.
+- **Pastries**: A selection of fresh-baked goods.
 
 ## Getting Started
+This is a simple react app created to show our coffee shop details. 
 
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/cezarpauna/TestRepoCreation.git
@@ -23,16 +28,9 @@ This is a simple React application that showcases our coffee shop menu.
    ```bash
    npm install
    ```
-4. Start the application:
+4. Start the app:
    ```bash
    npm start
    ```
 
-## Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
-
-Enjoy your coffee!
+Enjoy your experience at our coffee shop!
