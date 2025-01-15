@@ -1,28 +1,31 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We offer the finest coffee in town along with a delightful menu of pastries. Here's a brief overview of our offerings:
+Welcome to our Local Coffee Shop!
+
+## About Us
+We serve the best coffee in town, along with delicious pastries to accompany your favorite brews.
 
 ## Our Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
+- **Espresso**: A strong coffee brewed by forcing hot water through ground coffee beans.
+- **Latte**: A creamy coffee drink made with espresso and steamed milk.
+- **Cappuccino**: A classic Italian coffee with equal parts espresso, steamed milk, and milk foam.
+- **Cold Brew**: Smooth coffee brewed with cold water for a prolonged period of time.
+- **Pastries**: A variety of baked goods available for a perfect snack with your coffee.
 
-## Getting Started
+## Get In Touch
+Come visit us, and feel free to reach out on our social media!
 
-To get started with this project, clone the repo:
-
-```bash
-git clone https://github.com/cezarpauna/TestRepoCreation.git
+## Installation
+Run the following command to install dependencies:
+```
+npm install
 ```
 
-Run the application:
-
-```bash
-cd TestRepoCreation
-npm install
+## Start the Application
+Use the following command to start the application:
+```
 npm start
 ```
 
-Enjoy your coffee!
+## License
+This project is open source!
