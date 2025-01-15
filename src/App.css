@@ -1,16 +1,19 @@
 .app {
     text-align: center;
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    margin: 20px;
+    background-color: #f8f8f8;
     padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 h1 {
-    color: #6b4f4f;
+    color: #333;
 }
 
 h2 {
-    color: #7d3c98;
+    color: #555;
 }
 
 ul {
@@ -19,9 +22,8 @@ ul {
 }
 
 li {
-    background: #ffffff;
-    margin: 10px 0;
+    background: #e0e0e0;
+    margin: 5px;
     padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    border-radius: 4px;
 }
