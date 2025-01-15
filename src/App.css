@@ -1,28 +1,29 @@
 .app {
     text-align: center;
-    background-color: #f0e5d8;
+    background-color: #fff5e1;
+    color: #6b4e4e;
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-family: 'Arial', sans-serif;
 }
 
 h1 {
-    color: #5e3c3a;
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
 }
 
 h2 {
-    color: #6b4c4c;
+    margin-top: 1em;
 }
 
 ul {
-    list-style: none;
+    list-style-type: none;
     padding: 0;
 }
 
 li {
-    background-color: #fff;
-    margin: 5px 0;
+    background: #ffe5b4;
+    margin: 10px 0;
     padding: 10px;
-    border-radius: 4px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
 }
