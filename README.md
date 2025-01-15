@@ -1,11 +1,12 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop!
+Welcome to our Local Coffee Shop! This is a simple React application showcasing the best coffee and pastries we have to offer.
 
-## About Us
-We serve the best coffee in town! Our friendly baristas are here to make your day a bit brighter with every cup.
+## Features
+- Stylish UI
+- Simple menu display
 
-## Our Menu
+## Menu
 - Espresso
 - Latte
 - Cappuccino
@@ -13,10 +14,12 @@ We serve the best coffee in town! Our friendly baristas are here to make your da
 - Pastries
 
 ## Getting Started
-To run this project locally:
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Run the application using `npm start`
+To get started with this project, clone the repository and run the following commands:
 
-## Contact Us
-For inquiries, feel free to reach out via email or visit our shop!
+```bash
+npm install
+npm start
+```
+
+## Author
+Cezar Pauna
