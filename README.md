@@ -1,30 +1,22 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town, along with a variety of delicious pastries and beverages.
+Welcome to our Local Coffee Shop!
 
-## Menu
-- **Espresso**
-- **Latte**
-- **Cappuccino**
-- **Cold Brew**
-- **Pastries**
+## About Us
+We serve the best coffee in town with a cozy atmosphere.
+
+### Our Menu
+- Espresso
+- Latte
+- Cappuccino
+- Cold Brew
+- Pastries
 
 ## Getting Started
-To get started with this project, clone the repository and install the required dependencies:
+To run the application:
+1. Clone the repository.
+2. Install the dependencies using `npm install`.
+3. Start the application using `npm start`.
 
-```bash
-npm install
-```
-
-Then, you can run the app with:
-
-```bash
-npm start
-```
-
-## Features
-- Refreshing coffee options
-- Cozy atmosphere
-- Friendly staff
-
-## Enjoy your coffee!
+## License
+This project is licensed under the MIT License.
