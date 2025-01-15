@@ -1,47 +1,23 @@
 # Local Coffee Shop
 
-Welcome to the **Local Coffee Shop** website! This is a simple React app that showcases our delightful coffee menu and invites everyone to enjoy the cozy atmosphere of our shop.
+Welcome to our Local Coffee Shop!
 
-## Features
-- Elegant user interface
-- Responsive design
-- Listings of popular coffee items and pastries
+## About Us
+We serve the best coffee in town and offer a variety of delicious drinks and pastries.
 
 ## Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
+- **Espresso**: Strong and bold.
+- **Latte**: Smooth and creamy.
+- **Cappuccino**: Espresso with steamed milk and foam.
+- **Cold Brew**: Refreshing and smooth cold coffee.
+- **Pastries**: Freshly baked pastries to complement your coffee.
 
 ## Getting Started
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-- Node.js
-- npm (Node Package Manager)
-
-### Installation
-1. Clone the repo
-   ```bash
-   git clone https://github.com/cezarpauna/TestRepoCreation.git
-   ```
-2. Navigate to the project directory
-   ```bash
-   cd TestRepoCreation
-   ```
-3. Install NPM packages
-   ```bash
-   npm install
-   ```
-4. Run the app
-   ```bash
-   npm start
-   ```
-
-## Contributing
-If you have suggestions for improvements, feel free to open an issue or pull request.
+To run the app locally:
+1. Clone the repository
+2. Navigate to the folder
+3. Run `npm install`
+4. Start the application with `npm start`
 
 ## License
-This project is licensed under the MIT License.  
-Enjoy your coffee! ☕
+This project is licensed under the MIT License.
