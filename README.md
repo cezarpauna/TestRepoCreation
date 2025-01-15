@@ -1,29 +1,12 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! Here, we serve the best coffee in town along with a variety of delicious pastries.
+Welcome to our Local Coffee Shop! We are dedicated to serving the best coffee in town. Below is our menu:
 
-## Features:
-- Cozy atmosphere
-- Friendly staff
-- Freshly brewed coffee
-- Variety of snacks and pastries
+## Our Menu
+- **Espresso**: Bold and rich coffee shot!
+- **Latte**: Creamy and smooth, topped with milk foam.
+- **Cappuccino**: Equal parts espresso, steamed milk, and foam.
+- **Cold Brew**: Smooth iced coffee brewed with cold water.
+- **Pastries**: Freshly baked goodies to complement your drink.
 
-## Our Menu:
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
-
-## Getting Started
-
-To run this project locally, you can clone the repository:
-
-```bash
-git clone https://github.com/cezarpauna/TestRepoCreation.git
-cd TestRepoCreation
-npm install
-npm start
-```
-
-Enjoy your coffee! ☕
+Visit us for an unforgettable coffee experience!
