@@ -1,6 +1,6 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town, along with delicious pastries and a cozy atmosphere.
+Welcome to our Local Coffee Shop! We are delighted to serve the best coffee in town. Enjoy our delicious beverages and pastries in a cozy atmosphere.
 
 ## Our Menu
 - Espresso
@@ -14,17 +14,21 @@ Welcome to our Local Coffee Shop! We serve the best coffee in town, along with d
    ```bash
    git clone https://github.com/cezarpauna/TestRepoCreation.git
    ```
-2. Change directory to the project folder:
+2. Navigate to the project directory:
    ```bash
    cd TestRepoCreation
    ```
-3. Install the necessary packages:
+3. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the app:
+4. Start the application:
    ```bash
    npm start
    ```
 
-Enjoy your coffee!
+## Contribution
+We welcome contributions to improve our coffee shop application! Feel free to submit a pull request.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
