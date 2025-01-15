@@ -1,12 +1,28 @@
 # Local Coffee Shop
 
-Welcome to our local coffee shop! We are dedicated to providing you with the best coffee experience imaginable.
+Welcome to our Local Coffee Shop! This is a simple React application demo that showcases our awesome coffee menu.
+
+## Features
+- Stylish UI
+- React-based
+- Responsive Design
 
 ## Our Menu
-- **Espresso**: A classic! Strong and bold.
-- **Latte**: A creamy mix of espresso and steamed milk.
-- **Cappuccino**: Equal parts espresso, steamed milk, and foam.
-- **Cold Brew**: Smooth and refreshing, perfect for hot days!
-- **Pastries**: Freshly baked daily.
+- Espresso
+- Latte
+- Cappuccino
+- Cold Brew
+- Pastries
 
-We hope you enjoy your visit!
+## Getting Started
+To get started with this project, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/cezarpauna/TestRepoCreation.git
+cd TestRepoCreation
+npm install
+npm start
+```
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
