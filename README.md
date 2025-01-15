@@ -1,13 +1,20 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town. Our menu includes delicious coffee varieties and fresh pastries.
+Welcome to our Local Coffee Shop! ☕
 
-## Our Menu
-- **Espresso**
-- **Latte**
-- **Cappuccino**
-- **Cold Brew**
-- **Pastries**
+We serve the best coffee in town and have a variety of delicious drinks and pastries.
 
-## Get in Touch
-Feel free to visit us or contact us for more information!
+## Menu
+- Espresso
+- Latte
+- Cappuccino
+- Cold Brew
+- Pastries
+
+## Getting Started
+To run this app locally:
+1. Clone the repository
+2. Install dependencies using `npm install`
+3. Start the local server using `npm start`
+
+Enjoy your coffee!
