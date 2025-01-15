@@ -1,24 +1,30 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop, where we serve the best coffee in town!
+Welcome to our Local Coffee Shop! ☕
 
-## Menus
+## About Us
+We serve the best coffee in town.
+
+## Our Menu
 - Espresso
 - Latte
 - Cappuccino
 - Cold Brew
 - Pastries
 
-## Features
-- Stylish interface
-- Responsive design
-
 ## Getting Started
-To run this React app:
-1. Clone the repository
-2. Navigate to the project directory
-3. Run `npm install` to install the dependencies
-4. Use `npm start` to launch the app
+To get a local copy up and running follow these simple steps:
+1. Clone the repo.
+   ```sh
+   git clone https://github.com/cezarpauna/TestRepoCreation.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start the application
+   ```sh
+   npm start
+   ```
 
-## License
-This project is licensed under the MIT License.
+Enjoy your coffee!
