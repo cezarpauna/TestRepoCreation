@@ -9,11 +9,16 @@ Welcome to our Local Coffee Shop! We serve the best coffee in town.
 - Cold Brew
 - Pastries
 
-## Getting Started
-To run this application locally:
-1. Clone the repository: `git clone https://github.com/cezarpauna/TestRepoCreation.git`
-2. Navigate to the directory: `cd TestRepoCreation`
+### Getting Started
+To run the app:
+1. Clone the repository.
+2. Navigate to the project directory.
 3. Install dependencies: `npm install`
-4. Start the application: `npm start`
+4. Start the app: `npm start`
 
-Enjoy your coffee! ☕
+## Technologies Used
+- React
+- CSS
+
+## Author
+Cezar Pauna
