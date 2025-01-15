@@ -1,6 +1,6 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town.
+Welcome to our Local Coffee Shop! We are dedicated to serving the best coffee in town. 
 
 ## Our Menu
 - Espresso
@@ -9,12 +9,9 @@ Welcome to our Local Coffee Shop! We serve the best coffee in town.
 - Cold Brew
 - Pastries
 
-## Getting Started
-To run this app, clone the repository and use the following command:
+## Features
+- Cozy atmosphere 
+- Free Wi-Fi 
+- Friendly staff
 
-```bash
-npm install
-npm start
-```
-
-Enjoy your coffee!
+Come visit us and enjoy a cup of coffee!
