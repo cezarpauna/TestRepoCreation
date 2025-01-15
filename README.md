@@ -1,25 +1,19 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town.
+Welcome to our Local Coffee Shop! We serve the best coffee in town, including a variety of delicious options to suit your taste buds.
 
-## Features
-- A cozy environment perfect for relaxation or work
-- A menu filled with delightful beverages and pastries
-
-## Our Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
+## Menu
+- **Espresso**: Strong coffee with a rich flavor.
+- **Latte**: Creamy and smooth coffee mixed with steamed milk.
+- **Cappuccino**: Frothy coffee with equal parts milk and espresso.
+- **Cold Brew**: Refreshing coffee brewed cold for a smooth taste.
+- **Pastries**: A variety of baked goods to complement your drink.
 
 ## Getting Started
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run this app locally:
+1. Clone the repository: `git clone https://github.com/cezarpauna/TestRepoCreation.git`
+2. Navigate to the project directory: `cd TestRepoCreation`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
 
-To run the app:
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Start the application using `npm start`
-
-## License
-This project is licensed under the MIT License.
+Enjoy your coffee!
