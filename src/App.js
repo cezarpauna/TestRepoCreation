@@ -1,15 +1,20 @@
 import React from 'react';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Welcome to Our Coffee Shop!</h1>
-        <p>We serve the best coffee in town.</p>
-      </header>
-    </div>
-  );
-}
+const App = () => {
+    return (
+        <div>
+            <h1>Welcome to our Local Coffee Shop</h1>
+            <p>We serve the best coffee in town!</p>
+            <h2>Our Menu</h2>
+            <ul>
+                <li>Espresso</li>
+                <li>Latte</li>
+                <li>Cappuccino</li>
+                <li>Cold Brew</li>
+                <li>Pastries</li>
+            </ul>
+        </div>
+    );
+};
 
 export default App;
