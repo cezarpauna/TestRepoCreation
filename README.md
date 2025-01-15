@@ -1,22 +1,21 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town along with some delicious pastries.
+Welcome to our Coffee Shop! We're dedicated to serving the best coffee in town along with a selection of pastries.
 
-## Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
+## Our Menu
+- **Espresso**
+- **Latte**
+- **Cappuccino**
+- **Cold Brew**
+- **Pastries**
 
 ## Getting Started
-
-To run this application locally, follow these steps:
+To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/cezarpauna/TestRepoCreation.git
    ```
-2. Navigate to the project directory:
+2. Navigate into the project directory:
    ```bash
    cd TestRepoCreation
    ```
@@ -30,7 +29,7 @@ To run this application locally, follow these steps:
    ```
 
 ## Contributing
-If you'd like to contribute to this project, feel free to open an issue or submit a pull request!
+We welcome contributions! Please feel free to submit a pull request or open an issue.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
