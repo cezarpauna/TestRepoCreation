@@ -3,21 +3,18 @@
 Welcome to our Local Coffee Shop!
 
 ## About Us
-We serve the best coffee in town and offer a variety of delicious drinks and pastries.
+We serve the best coffee in town, along with delicious pastries. Whether you prefer a bold espresso or a smooth latte, we have something for everyone.
 
-## Menu
-- **Espresso**: Strong and bold.
-- **Latte**: Smooth and creamy.
-- **Cappuccino**: Espresso with steamed milk and foam.
-- **Cold Brew**: Refreshing and smooth cold coffee.
-- **Pastries**: Freshly baked pastries to complement your coffee.
+## Our Menu
+- Espresso
+- Latte
+- Cappuccino
+- Cold Brew
+- Pastries
 
-## Getting Started
-To run the app locally:
-1. Clone the repository
-2. Navigate to the folder
-3. Run `npm install`
-4. Start the application with `npm start`
-
-## License
-This project is licensed under the MIT License.
+## Get Started
+To run this project:
+1. Clone the repo using `git clone https://github.com/cezarpauna/TestRepoCreation.git`
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Finally, run `npm start` to see the app in action!
