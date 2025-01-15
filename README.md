@@ -1,9 +1,6 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! ☕
-
-## About Us
-We serve the best coffee in town, crafted with care.
+Welcome to our Local Coffee Shop! We serve the best coffee in town.
 
 ## Our Menu
 - Espresso
@@ -13,10 +10,11 @@ We serve the best coffee in town, crafted with care.
 - Pastries
 
 ## Getting Started
-To run the application locally:
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Use `npm start` to start the development server.
+To run this app, clone the repository and use the following command:
 
-## Contributing
-Feel free to submit issues or pull requests! 🎉
+```bash
+npm install
+npm start
+```
+
+Enjoy your coffee!
