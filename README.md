@@ -1,20 +1,17 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town, along with delicious pastries. Check out our menu below:
+Welcome to our Local Coffee Shop, where we serve the best coffee in town!
 
-## Menu
+## Our Menu
 - Espresso
 - Latte
 - Cappuccino
 - Cold Brew
 - Pastries
 
-## Getting Started
+## Features
+- Cozy atmosphere
+- Friendly staff
+- Free Wi-Fi
 
-To run the app locally:
-1. Clone the repository: `git clone https://github.com/cezarpauna/TestRepoCreation.git`
-2. Navigate to the project directory: `cd TestRepoCreation`
-3. Install dependencies: `npm install`
-4. Start the application: `npm start`
-
-Enjoy your coffee! ☕
+Visit us for a delightful coffee experience!
