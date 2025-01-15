@@ -1,8 +1,15 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town.
+Welcome to our Local Coffee Shop!
 
-## Our Menu
+## About
+This is a simple React app that allows you to explore our delicious coffee offerings.
+
+## Features
+- View our menu items
+- Stylish user interface
+
+## Menu
 - Espresso
 - Latte
 - Cappuccino
@@ -10,10 +17,11 @@ Welcome to our Local Coffee Shop! We serve the best coffee in town.
 - Pastries
 
 ## Getting Started
+To run this project:
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Run `npm start` to start the app.
 
-This project is a simple React app. To get started:
-1. Clone the repository
-2. Install dependencies with `npm install`
-3. Run the app using `npm start`
-
-Enjoy your coffee!
+## License
+This project is licensed under the MIT License.
