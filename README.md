@@ -1,11 +1,9 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the finest coffee in town along with a variety of delicious pastries. Explore our menu and enjoy a cup of your favorite brew!
+Welcome to our local coffee shop! 
 
-## Features
-- Modern React app
-- Stylish interface
-- Responsive design
+## About Us
+We serve the best coffee in town with a warm and cozy atmosphere. 
 
 ## Menu
 - Espresso
@@ -14,13 +12,14 @@ Welcome to our Local Coffee Shop! We serve the finest coffee in town along with 
 - Cold Brew
 - Pastries
 
+Come and enjoy a cup of our delicious coffee!
+
 ## Getting Started
-To get started with the app, clone the repository and install the dependencies:
+To get started with the app, make sure to have [Node.js](https://nodejs.org/) installed, and then run:
+
 ```bash
-git clone https://github.com/cezarpauna/TestRepoCreation.git
-cd TestRepoCreation
 npm install
 npm start
 ```
 
-Happy Coding!
+Enjoy your coffee!
