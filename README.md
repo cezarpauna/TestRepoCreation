@@ -1,9 +1,6 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop!
-
-## About Us
-We serve the best coffee in town. Visit us for a cozy atmosphere and delicious beverages.
+Welcome to our Local Coffee Shop! We serve the best coffee in town, along with a variety of delicious pastries.
 
 ## Our Menu
 - Espresso
@@ -12,10 +9,16 @@ We serve the best coffee in town. Visit us for a cozy atmosphere and delicious b
 - Cold Brew
 - Pastries
 
-## How to Use This Project
-1. Clone the repository.
-2. Install the necessary packages using `npm install`.
-3. Start the development server with `npm start`.
+## Get Started
+To get started with this project, clone the repository and run the app.
+
+```bash
+npm install
+npm start
+```
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
