@@ -1,9 +1,9 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop!
+Welcome to our Local Coffee Shop! ☕
 
 ## About Us
-We are dedicated to providing you with the best coffee and pastries in town.
+We serve the best coffee in town. Come and enjoy our cozy atmosphere and friendly service!
 
 ## Our Menu
 - Espresso
@@ -13,11 +13,13 @@ We are dedicated to providing you with the best coffee and pastries in town.
 - Pastries
 
 ## Getting Started
-To get started with this app, clone the repository and run the following commands:
+To run this app locally:
+1. Clone the repository
+2. Install dependencies using `npm install`
+3. Run the app using `npm start`
 
-```bash
-npm install
-npm start
-```
+## Contributing
+If you'd like to contribute, please fork the repo and submit a pull request!
 
-Enjoy your coffee!
+## License
+This project is licensed under the MIT License.
