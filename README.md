@@ -1,20 +1,31 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We serve the best coffee in town. Our menu includes a variety of delicious beverages and pastries. Enjoy a cozy atmosphere and fantastic service.
+Welcome to our Local Coffee Shop!
 
-## Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
+## Overview
+This is a simple React app that showcases our coffee shop's offerings. We pride ourselves on serving the best coffee in town.
 
-## Getting Started
-To run this project locally:
-1. Clone the repository: `git clone https://github.com/cezarpauna/TestRepoCreation`
-2. Navigate to the project directory: `cd TestRepoCreation`
-3. Install dependencies: `npm install`
-4. Start the app: `npm start`
+## Features
+- Stylish and modern interface
+- Menu of coffees and pastries
 
-## Contributing
-If you would like to contribute to this project, feel free to open an issue or create a pull request.
+## Technologies Used
+- React
+- CSS
+
+## How to Run the App
+1. Clone the repository
+   ```bash
+   git clone https://github.com/cezarpauna/TestRepoCreation.git
+   cd TestRepoCreation
+   ```
+2. Install dependencies
+   ```bash
+   npm install
+   ```
+3. Start the app
+   ```bash
+   npm start
+   ```
+
+Enjoy your coffee experience!
