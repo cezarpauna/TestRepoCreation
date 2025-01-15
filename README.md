@@ -1,31 +1,23 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We're excited to serve you the best coffee in town.
+## Welcome to our Local Coffee Shop!
+We serve the best coffee in town. Our menu includes a variety of drinks and pastries to satisfy your cravings.
 
-## Our Menu
+### Our Menu
 - Espresso
 - Latte
 - Cappuccino
 - Cold Brew
 - Pastries
 
-## Getting Started
+## How to run the project
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/cezarpauna/TestRepoCreation.git
-   ```
-2. Change into the directory:
-   ```bash
-   cd TestRepoCreation
-   ```
+   `git clone https://github.com/cezarpauna/TestRepoCreation.git`
+2. Navigate to the project directory:
+   `cd TestRepoCreation`
 3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the application:
-   ```bash
-   npm start
-   ```
+   `npm install`
+4. Start the development server:
+   `npm start`
 
-## Styles
-The app includes simple CSS styling to enhance the user experience.
+Enjoy your coffee!
