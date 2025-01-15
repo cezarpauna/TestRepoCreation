@@ -2,7 +2,14 @@
 
 Welcome to our Local Coffee Shop!
 
-We serve the best coffee in town, along with delicious pastries. Our menu includes:
+## About Us
+We serve the best coffee in town and offer a wide selection of drinks and pastries.
+
+## Features
+- Stylish and responsive UI
+- Interactive menu
+
+## Menu
 - Espresso
 - Latte
 - Cappuccino
@@ -10,10 +17,24 @@ We serve the best coffee in town, along with delicious pastries. Our menu includ
 - Pastries
 
 ## Getting Started
+To get a local copy up and running follow these simple steps.
 
-To run this project locally:
+### Prerequisites
+- Node.js and npm
+
+### Installation
 1. Clone the repo
-2. Run `npm install`
-3. Run `npm start`
+   ```bash
+   git clone https://github.com/cezarpauna/TestRepoCreation.git
+   ```
+2. Install NPM packages
+   ```bash
+   npm install
+   ```
+3. Start the application
+   ```bash
+   npm start
+   ```
 
-Enjoy your coffee!
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
