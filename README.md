@@ -1,16 +1,10 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We are delighted to serve you the best coffee in town.
+Welcome to our Local Coffee Shop! This React app showcases our menu and services.
 
-## Our Menu
-- Espresso
-- Latte
-- Cappuccino
-- Cold Brew
-- Pastries
-
-## Getting Started
-This project is a simple React application showcasing a local coffee shop's offerings. Go through the code to see how it is structured.
+## Features
+- Displays a welcome message.
+- Lists our coffee and pastry offerings.
 
 ## Installation
 1. Clone the repository:
@@ -25,10 +19,11 @@ This project is a simple React application showcasing a local coffee shop's offe
    ```bash
    npm install
    ```
-4. Run the application:
-   ```bash
-   npm start
-   ```
 
-## Contributing
-Feel free to submit issues or pull requests to contribute to this project!
+## Usage
+To run the app, use the following command:
+```bash
+npm start
+```
+
+Enjoy the best coffee in town!
