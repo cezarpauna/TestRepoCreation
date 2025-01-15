@@ -1,27 +1,36 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We pride ourselves on serving the best coffee in town, along with delicious pastries and a cozy atmosphere.
+Welcome to our Local Coffee Shop! We serve the best coffee in town, with a variety of options to satisfy your caffeine cravings.
+
+## Features
+- Simple and elegant design
+- Responsive layout
+- Menu showcasing our delicious offerings
 
 ## Menu
-- **Espresso**: Rich and bold coffee.
-- **Latte**: Creamy milk coffee with a hint of sweetness.
-- **Cappuccino**: Equal parts of espresso, steamed milk, and foam.
-- **Cold Brew**: Smooth and refreshing iced coffee.
-- **Pastries**: A variety of fresh baked goodies.
+- Espresso
+- Latte
+- Cappuccino
+- Cold Brew
+- Pastries
 
 ## Getting Started
-To run this app, you need to install [Node.js](https://nodejs.org/en/download/) and then:
-
+To run this app on your local machine:
 1. Clone the repository:
-   `git clone https://github.com/cezarpauna/TestRepoCreation`
+   ```bash
+   git clone https://github.com/cezarpauna/TestRepoCreation.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd TestRepoCreation
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
 
-2. Navigate to the directory:
-   `cd TestRepoCreation`
-
-3. Install the dependencies:
-   `npm install`
-
-4. Start the app:
-   `npm start`
-
-Enjoy your coffee! ☕
+Enjoy your coffee and happy coding!
