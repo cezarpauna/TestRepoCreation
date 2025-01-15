@@ -1,18 +1,23 @@
 # Local Coffee Shop
 
-Welcome to our local coffee shop! We are passionate about serving the best coffee in town.
-
-## Our Menu
-- **Espresso**
-- **Latte**
-- **Cappuccino**
-- **Cold Brew**
-- **Pastries**
+Welcome to our Local Coffee Shop!
 
 ## Features
-- Cozy atmosphere
-- Free Wi-Fi
-- Friendly baristas
+- Beautifully designed interface.
+- Menu includes a wide selection of coffee and pastries.
 
-## Get Involved
-We are always happy to hear from our customers. Feel free to reach out with feedback or suggestions!
+## Menu
+-**Espresso**: Rich and bold coffee.
+-**Latte**: Smooth milk and espresso.
+-**Cappuccino**: Coffee with a creamy texture.
+-**Cold Brew**: Iced coffee for hot days.
+-**Pastries**: Freshly baked delights.
+
+## Getting Started
+To run the app locally:
+1. Clone the repository.
+2. Navigate to the directory.
+3. Run `npm install` to install dependencies.
+4. Start the app with `npm start`.
+
+Enjoy your delicious coffee!
