@@ -1,8 +1,9 @@
 import React from 'react';
+import './App.css';
 
 const App = () => {
     return (
-        <div>
+        <div className="app">
             <h1>Welcome to our Local Coffee Shop</h1>
             <p>We serve the best coffee in town!</p>
             <h2>Our Menu</h2>
