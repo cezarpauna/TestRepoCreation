@@ -10,22 +10,15 @@ Welcome to our Local Coffee Shop! We serve the best coffee in town, and we are e
 - Pastries
 
 ## Getting Started
-To run the app locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/cezarpauna/TestRepoCreation.git
-   ```
-2. Navigate into the directory:
-   ```bash
-   cd TestRepoCreation
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the app:
-   ```bash
-   npm start
-   ```
+This is a simple React app created to showcase our offerings. You can run the app with the following commands:
 
-Enjoy your coffee! ☕
+```bash
+npm install
+npm start
+```
+
+## Tech Stack
+- React
+- CSS
+
+Feel free to contribute to this project and suggest features or improvements!
