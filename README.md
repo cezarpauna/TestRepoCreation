@@ -1,6 +1,11 @@
 # Local Coffee Shop
 
-Welcome to our Local Coffee Shop! We are committed to serving the best coffee and pastries in town. Our cozy atmosphere is perfect for a quick caffeine fix or a leisurely cup of coffee with friends.
+Welcome to our Local Coffee Shop! ☕
+
+## Features
+- A simple and elegant interface.
+- Responsive design for mobile and desktop.
+- Menu with various coffee options.
 
 ## Menu
 - Espresso
@@ -9,14 +14,12 @@ Welcome to our Local Coffee Shop! We are committed to serving the best coffee an
 - Cold Brew
 - Pastries
 
-## Features
-- Stylish and user-friendly interface
-- Responsive design for mobile and desktop
-
 ## Getting Started
-To run this app locally:
+To run this application locally:
 1. Clone the repository.
-2. Install the dependencies with `npm install`.
-3. Start the development server with `npm start`.
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Start the local server with `npm start`.
 
-Enjoy your visit! ☕
+## License
+This project is licensed under the MIT License.
